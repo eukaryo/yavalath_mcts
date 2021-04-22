@@ -2,7 +2,7 @@
 
 ### feature
 
-- Bitboard techniques are used everywhere. It accelerates the following functions:
+- Bitboard techniques are used everywhere. It accelerates following functions:
    - enumerate all legal (= not making a line-of-3 pieces) moves
    - enumerate all legal moves that make a check
    - determine whether a player can checkmate in 1 move

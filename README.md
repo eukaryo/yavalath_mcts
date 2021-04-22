@@ -1,6 +1,6 @@
-# yavalath_mcts
+# Yavalath_mcts
 
-yavalath
+Yavalath
 http://cambolbro.com/games/yavalath/
 
 MCTS

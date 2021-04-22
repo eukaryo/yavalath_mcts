@@ -9,3 +9,4 @@
    - determine whether a player can checkmate in 3 moves
 - MCTS (UCT + random playout)
 - during a playout, each player can avoid all the blunders(= lose in 4 moves) and find all the killer-moves(= win in 3 moves).
+- This software uses some intel intrinsics, but but you can easily change it to use only basic instructions. (#define ONLY_BASIC_INSTRUCTION)

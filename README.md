@@ -1,5 +1,11 @@
 # yavalath_mcts
 
+yavalath
+http://cambolbro.com/games/yavalath/
+
+MCTS
+https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
+
 ### feature
 
 - Bitboard techniques are used everywhere. It accelerates following functions:
